@@ -1,5 +1,3 @@
-public class Powierzchnia {
-    public static void main(String args[]) {
-        
-    }
+public interface Powierzchnia {
+    public double PoliczPole();
 }
