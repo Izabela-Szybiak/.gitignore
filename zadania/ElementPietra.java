@@ -1,5 +1,3 @@
-public class ElementPietra {
-    public static void main(String args[]) {
-        
-    }
+public abstract class ElementPietra implements Powierzchnia {
+    public int numerPietra;
 }
